@@ -1,39 +1,75 @@
-# 💫 About Me:
-🚀 Undergraduate Student | SRM University<br>💻 Full Stack Web Developer | Building dynamic & interactive web apps<br>🤖 AI Enthusiast | Passionate about Machine Learning & AI innovations
+# Shashwat Sharma
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aDdSjGlUbmwFCQo/giphy.gif" width="600" height="300"/>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_shashwatsh309_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashwat-sharma-042950288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shashwatsharma309@gmail.com) 
+<div align="center">
+  <h3>"Knowledge is power." - Lord Baelish</h3>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shash309&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shash309&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shash309&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## The Hand of Technology
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+2nd Year Undergraduate Student at SRM University forging the digital realm with code and innovation. Like the Hand of the King who manages the day-to-day workings of the Seven Kingdoms, I orchestrate the seamless functioning of web applications and AI systems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shash309&limit=5&theme=gotham&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="400" height="200"/>
+</div>
+
+## My Kingdoms
+
+- **Full Stack Web Development**: Constructing dynamic and interactive web applications that stand as strong as the Wall.
+- **Artificial Intelligence**: Exploring the mysteries of Machine Learning and AI innovations like a Maester studies ancient scrolls.
+
+## My Arsenal
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="200"/>
+</div>
+
+```
+"A mind needs books like a sword needs a whetstone." - Tyrion Lannister
+```
+
+### Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## Legendary Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="400" height="200"/>
+</div>
+
+### TRANSEKT
+
+A decentralized payment solution that seamlessly integrates Web3 and UPI, enabling fast, secure, and borderless transactions. Like the Iron Bank of Braavos, TRANSEKT ensures that all debts are paid.
+
+### ChatCast
+
+A chat application built using Python's `Tkinter` library, providing a messaging interface with automated bot responses. Like the ravens of Westeros delivering messages across the realm, ChatCast maintains communication and preserves history for future reference.
+
+## Send a Raven
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="300" height="200"/>
+</div>
+
+If you wish to forge an alliance, send a raven:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sharma-042950288)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatsharma309@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shash309&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**Shash309/Shash309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjHUf7j0aFDce0dG/giphy.gif" width="400" height="200"/>
+  <h3>"When you play the game of code, you debug or you die." - House of Developers</h3>
+</div>
