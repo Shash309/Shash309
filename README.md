@@ -103,7 +103,7 @@ My approach to development is guided by three fundamental principles:
 Current areas of focus:
 - Cloud-native application development
 - AI model deployment and integration
-- Progressive Web Application architecture
+- Progressive Web Application architecture 
 
 ---
 
