@@ -1,145 +1,136 @@
-# Shashwat Sharma
-
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdoZnloNGhmaHZ3ZmFrM2xycDA4M2czeXFyc2g5d2htOHFmZjFheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AGSOXnGpH5N3hM8B1h/giphy.gif" width="500" height="300" alt="Game of Thrones Banner"/>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║          > SHASHWAT_SHARMA.init() ...                    ║
+║          > LOADING PROFILE ... ████████████ 100%         ║
+║          > STATUS: BUILDING THINGS THAT MATTER           ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
 </div>
 
 <div align="center">
-  <h3>2nd Year Undergraduate Student | SRM University | Full Stack Web Developer | AI Enthusiast</h3>
-  
-  <p>
-    <a href="https://www.linkedin.com/in/shashwat-sharma-042950288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:shashwatsharma309@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;AI+%2F+ML+Enthusiast;Building+the+Web+of+Tomorrow;SRM+University+%E2%80%94+2nd+Year)](https://github.com/Shash309)
+
 </div>
 
----
-
-## 📌 About Me
-
-<img align="right" src="https://media.giphy.com/media/3oEjI1erPMTMBFmNHi/giphy.gif" width="200"/>
-
-> "In the game of development, you either innovate or become obsolete."
-
-I am a dedicated Full Stack Web Developer pursuing my undergraduate degree at SRM University. I specialize in creating dynamic, interactive web applications with a focus on both functionality and user experience. My passion extends to Artificial Intelligence and Machine Learning, where I continuously explore cutting-edge technologies and methodologies.
-
----
-
-## 🛠️ Technical Skills
-
 <div align="center">
-  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="450" height="200" alt="Technical Skills"/>
-</div>
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sharma-042950288)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatsharma309@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shash309)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF9C.svg?style=for-the-badge&logo=vercel&logoColor=black)](#)
 
-### Backend Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="450" height="200" alt="Projects"/>
-</div>
-
-### TRANSEKT | Decentralized Payment Solution
-
-A cutting-edge payment platform that seamlessly integrates Web3 technology with UPI for secure and borderless transactions.
-
-**Technologies Used:**
-- Blockchain Infrastructure
-- Smart Contracts
-- Web3.js
-- UPI Integration
-
-**Key Features:**
-- Secure blockchain-based transaction processing
-- Cross-border payment capabilities
-- User-friendly interface with robust security measures
-- Transparent transaction history
-
-### ChatCast | Intelligent Communication Platform
-
-A sophisticated chat application built with Python's Tkinter library, featuring automated responses and persistent history.
-
-**Technologies Used:**
-- Python
-- Tkinter
-- Natural Language Processing
-- File I/O Systems
-
-**Key Features:**
-- Persistent message history with file-based storage
-- Intelligent chatbot integration for automated responses
-- Clean and intuitive user interface
-- Customizable messaging experience
-
----
-
-## 💼 Professional Philosophy
-
-<img align="right" src="https://media.giphy.com/media/3o7aDdSjGlUbmwFCQo/giphy.gif" width="200"/>
-
-My approach to development is guided by three fundamental principles:
-
-1. **Innovation**: Constantly exploring new technologies and methodologies
-2. **Quality**: Delivering robust, well-tested, and maintainable solutions
-3. **User-Centric Design**: Creating experiences that prioritize user needs and satisfaction
-
-Current areas of focus:
-- Cloud-native application development
-- AI model deployment and integration
-- Progressive Web Application architecture 
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjHUf7j0aFDce0dG/giphy.gif" width="450" height="200" alt="Connect"/>
-  
-  <p>I'm always open to interesting conversations, collaboration opportunities, and new challenges.</p>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/shashwat-sharma-042950288">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          <br />LinkedIn
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:shashwatsharma309@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          <br />Email
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/YourGitHubUsername">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-          <br />GitHub
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
+## `$ whoami`
+
+```yaml
+name        : Shashwat Sharma
+role        : Full Stack Developer & AI Enthusiast
+education   : B.Tech — SRM University (2nd Year)
+location    : India
+status      : open_to_opportunities: true
+focus       : [ Web3, AI/ML, Cloud-Native Apps ]
+philosophy  : "Ship fast. Learn faster. Build with intention."
+```
+
+---
+
+## `$ ls ./skills`
+
+### ◈ Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ◈ Backend & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### ◈ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+## `$ cat ./projects`
+
+<details>
+<summary><b>⬡ TRANSEKT — Decentralized Payment Solution</b></summary>
+
+<br/>
+
+> Bridging Web3 and traditional finance — blockchain transactions with UPI integration.
+
+| Detail | Info |
+|--------|------|
+| **Stack** | Blockchain · Smart Contracts · Web3.js · UPI API |
+| **Highlights** | Cross-border payments · Secure on-chain history · Intuitive UI |
+| **Status** | `IN PROGRESS` |
+
+</details>
+
+<details>
+<summary><b>⬡ ChatCast — Intelligent Communication Platform</b></summary>
+
+<br/>
+
+> A Python-powered chat app with an NLP-driven response engine and persistent history.
+
+| Detail | Info |
+|--------|------|
+| **Stack** | Python · Tkinter · NLP · File I/O |
+| **Highlights** | Persistent storage · Chatbot integration · Custom UI |
+| **Status** | `SHIPPED` |
+
+</details>
+
+---
+
+## `$ cat ./github-stats`
+
 <div align="center">
-  <p><em>"The code you write today becomes the legacy others maintain tomorrow. Write it well."</em></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shash309&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shash309&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shash309&theme=neon-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C)
+
+</div>
+
+---
+
+## `$ cat ./currently-exploring`
+
+```bash
+[▓▓▓▓▓▓▓▓░░]  Cloud-Native Architecture     80%
+[▓▓▓▓▓▓░░░░]  AI Model Deployment & APIs    60%
+[▓▓▓▓▓▓▓▓▓░]  Progressive Web Apps (PWA)    90%
+[▓▓▓▓░░░░░░]  Web3 & Blockchain Dev         40%
+```
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────┐
+│  "The code you write today becomes the legacy   │
+│   others maintain tomorrow. Write it well."     │
+└─────────────────────────────────────────────────┘
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shash309.Shash309&color=00FF9C)
+
 </div>
