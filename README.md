@@ -33,11 +33,11 @@
 
 ```yaml
 name        : Shashwat Sharma
-role        : Full Stack Developer & AI Enthusiast
-education   : B.Tech — SRM University (2nd Year)
+role        : Applied AI Engineer
+education   : B.Tech — SRM University (3rd Year)
 location    : India
 status      : open_to_opportunities: true
-focus       : [ Web3, AI/ML, Cloud-Native Apps ]
+focus       : [Applied AI Engineer building intelligent, decentralized, cloud-native systems]
 philosophy  : "Ship fast. Learn faster. Build with intention."
 ```
 
