@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:0d2244&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
+<img src="./avatar.jpg" width="120" height="120" style="border-radius:50%; border: 2px solid #4DA6FF; margin-bottom: 12px;" alt="Shashwat Sharma"/>
+
 <!-- ─── HERO ─────────────────────────────────────────────────────── -->
 
 <a href="https://github.com/Shash309">
