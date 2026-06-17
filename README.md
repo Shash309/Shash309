@@ -1,294 +1,418 @@
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              BLUEPRINT ENGINEER — SHASH309                 -->
+<!--         Clean. Precise. Built for real systems.            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1628,50:0d2244,100:0a1628&height=2&section=header" width="100%"/>
+
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   > BOOTING ENGINEER PROFILE ...                              ║
-║                                                               ║
-║   > IDENTITY   : Shashwat Sharma                             ║
-║   > ROLE       : Applied AI Engineer                         ║
-║   > DOMAINS    : ML · Computer Vision · Voice · Systems      ║
-║   > STATUS     : [ BUILDING ] ████████████░░░░  78%          ║
-║   > UPTIME     : Continuous                                   ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   ENGINEER PROFILE · REV 3.0           SRM IST, Kattankulathur             │
+│                                                                             │
+│   NAME     Shashwat Sharma             DOMAIN   ML · CV · Voice · Systems  │
+│   HANDLE   Shash309                    STATUS   ● Building                 │
+│   DEGREE   B.Tech CSE (AI & ML)        CGPA     8.6 / 10.0                 │
+│   BATCH    2023 – 2027                 MODE     Ship fast. Learn faster.   │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1400&color=4DA6FF&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer+%2F%2F+ML+%C2%B7+CV+%C2%B7+Voice+%C2%B7+Systems;XGBoost+pipelines+%E2%86%92+%2B17%25+F1+at+Tata+Steel;React+%2B+FastAPI+%2B+OpenCV+%E2%86%92+%2B18%25+precision+at+Techboxai;Not+studying+AI+%E2%80%94+deploying+it.)](https://github.com/Shash309)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=4DA6FF&labelColor=0d1f3a)](https://www.linkedin.com/in/shashwat-sharma-042950288)
+[![Gmail](https://img.shields.io/badge/Gmail-0a1628?style=for-the-badge&logo=gmail&logoColor=4DA6FF&labelColor=0d1f3a)](mailto:shashwatsharma309@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a1628?style=for-the-badge&logo=github&logoColor=4DA6FF&labelColor=0d1f3a)](https://github.com/Shash309)
+
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
+
+## `// 01 · SYSTEM ARCHITECTURE`
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  BUILD PIPELINE · END-TO-END                                             │
+│                                                                          │
+│  Raw Data ──► Feature Eng ──► ML Model ──► API Layer ──► UI ──► Deploy  │
+│    [CSV]       [Pandas]      [sklearn]     [FastAPI]   [React]  [Prod]   │
+│                                                                          │
+│  INFERENCE STACK                                                         │
+│  OpenCV/MediaPipe ──► FastAPI ──► React/TypeScript ──► End User         │
+│                                                                          │
+│  KNOWLEDGE STACK                                                         │
+│  Codebase ──► RAG Index ──► Groq LLM ──► Semantic Search ──► Chat UI   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
+
+## `// 02 · TECHNICAL SPECIFICATIONS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**`[ INTELLIGENCE ]`**
+
+![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=4DA6FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a1628?style=flat-square&logo=tensorflow&logoColor=4DA6FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a1628?style=flat-square&logo=pytorch&logoColor=4DA6FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a1628?style=flat-square&logo=scikitlearn&logoColor=4DA6FF)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a1628?style=flat-square&logo=opencv&logoColor=4DA6FF)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0a1628?style=flat-square&logo=google&logoColor=4DA6FF)
+![NumPy](https://img.shields.io/badge/NumPy-0a1628?style=flat-square&logo=numpy&logoColor=4DA6FF)
+![Pandas](https://img.shields.io/badge/Pandas-0a1628?style=flat-square&logo=pandas&logoColor=4DA6FF)
+![MLflow](https://img.shields.io/badge/MLflow-0a1628?style=flat-square&logo=mlflow&logoColor=4DA6FF)
+
+```
+XGBoost · NLP · RAG · Semantic Search
+Audio DSP · Librosa · SciPy · Seaborn
+```
+
+</td>
+<td width="50%" valign="top">
+
+**`[ SYSTEMS ]`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0a1628?style=flat-square&logo=fastapi&logoColor=4DA6FF)
+![Flask](https://img.shields.io/badge/Flask-0a1628?style=flat-square&logo=flask&logoColor=4DA6FF)
+![Node.js](https://img.shields.io/badge/Node.js-0a1628?style=flat-square&logo=nodedotjs&logoColor=4DA6FF)
+![Django](https://img.shields.io/badge/Django-0a1628?style=flat-square&logo=django&logoColor=4DA6FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1628?style=flat-square&logo=postgresql&logoColor=4DA6FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a1628?style=flat-square&logo=mongodb&logoColor=4DA6FF)
+![Docker](https://img.shields.io/badge/Docker-0a1628?style=flat-square&logo=docker&logoColor=4DA6FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0a1628?style=flat-square&logo=kubernetes&logoColor=4DA6FF)
+![AWS](https://img.shields.io/badge/AWS-0a1628?style=flat-square&logo=amazonaws&logoColor=4DA6FF)
+
+```
+REST APIs · SQLite · Git · Vite · Jupyter
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`[ INTERFACE ]`**
+
+![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=4DA6FF)
+![Next.js](https://img.shields.io/badge/Next.js-0a1628?style=flat-square&logo=nextdotjs&logoColor=4DA6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=4DA6FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a1628?style=flat-square&logo=javascript&logoColor=4DA6FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a1628?style=flat-square&logo=tailwindcss&logoColor=4DA6FF)
+![HTML5](https://img.shields.io/badge/HTML5-0a1628?style=flat-square&logo=html5&logoColor=4DA6FF)
+
+```
+Interactive dashboards · RAG chat UI
+Component systems · Responsive design
+```
+
+</td>
+<td width="50%" valign="top">
+
+**`[ LANGUAGES ]`**
+
+![Python](https://img.shields.io/badge/Python-0a1628?style=flat-square&logo=python&logoColor=4DA6FF)
+![Java](https://img.shields.io/badge/Java-0a1628?style=flat-square&logo=openjdk&logoColor=4DA6FF)
+![C](https://img.shields.io/badge/C-0a1628?style=flat-square&logo=c&logoColor=4DA6FF)
+![C++](https://img.shields.io/badge/C++-0a1628?style=flat-square&logo=cplusplus&logoColor=4DA6FF)
+![SQL](https://img.shields.io/badge/SQL-0a1628?style=flat-square&logo=sqlite&logoColor=4DA6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1628?style=flat-square&logo=typescript&logoColor=4DA6FF)
+![Solidity](https://img.shields.io/badge/Solidity-0a1628?style=flat-square&logo=solidity&logoColor=4DA6FF)
+
+```
+Web3.js · Smart Contracts · UPI API
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
+
+## `// 03 · FIELD DEPLOYMENTS`
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  DEPLOYMENT LOG · PRODUCTION SYSTEMS                                    │
+├──────────┬───────────────────────────────────────┬──────────┬─────────┤
+│  UNIT    │  SYSTEM                               │  ORG     │  DELTA  │
+├──────────┼───────────────────────────────────────┼──────────┼─────────┤
+│  EXP-01  │  XGBoost TMT Bar Quality Classifier   │  Tata    │ +17% F1 │
+│          │  15,000+ samples · rib+ring features  │  Steel   │         │
+├──────────┼───────────────────────────────────────┼──────────┼─────────┤
+│  EXP-02  │  Face Unlock & Liveness Verif. System │  Tech-   │ +18%    │
+│          │  React/TS · FastAPI · OpenCV · Blink  │  boxai   │ prec.   │
+│          │  & hand-sign gesture detection        │          │         │
+│          │  500K+ row dataset analysis           │          │         │
+└──────────┴───────────────────────────────────────┴──────────┴─────────┘
+```
+
+### ML Engineer Intern · Tata Steel `Nov 2025 – Present`
+```
+› Trained XGBoost classifier on 15,000+ TMT bar samples (rib & ring test parameters)
+› Feature engineering + hyperparameter tuning → +17% F1 over baseline
+› Coordinated with domain experts to map model outputs to real quality standards
+```
+
+### Data Science Intern · Personate AI (TechboxAI) `May – Jul 2025`
+```
+› Built Face Unlock & Liveness Verification System end-to-end
+  React/TypeScript frontend · FastAPI backend · OpenCV + MediaPipe inference
+  Gesture-based liveness: blink detection + hand sign recognition
+› +18% personalisation precision over baseline
+› Analysed 500K+ row datasets → insights adopted into product roadmap
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
+
+## `// 04 · PROJECT MANIFEST`
+
+<details>
+<summary><b>PRJ-01 &nbsp;·&nbsp; RepoMind &nbsp;·&nbsp; AI Codebase Intelligence Platform</b> &nbsp;<code>● ACTIVE</code></summary>
+
+<br/>
+
+```
+SPECIFICATION
+─────────────────────────────────────────────────────────────────────
+  TYPE      AI-powered developer tool
+  STACK     Next.js · TypeScript · Node.js · RAG · SQLite
+  ENGINE    Hybrid inference — Groq (primary) + Ollama (fallback)
+
+PERFORMANCE BENCHMARKS
+  Repos indexed        50+
+  Query latency        < 2 seconds
+  Cache hit rate       ~40%
+
+CAPABILITIES
+  › Semantic search indexing across entire codebase
+  › Interactive dependency graphs + health gauges + risk cards
+  › Act Mode — precise cross-file edits with token-safety guards
+  › Natural language codebase chat interface
+─────────────────────────────────────────────────────────────────────
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>PRJ-02 &nbsp;·&nbsp; Cognitive Career Decision Intelligence &nbsp;·&nbsp; Career Rec. Engine</b> &nbsp;<code>● ACTIVE</code></summary>
+
+<br/>
+
+```
+SPECIFICATION
+─────────────────────────────────────────────────────────────────────
+  TYPE      NLP + ML career recommendation system
+  STACK     React · Python · Flask · scikit-learn · NLP
+
+PERFORMANCE BENCHMARKS
+  Model accuracy       ~87% (Random Forest)
+  Career paths ranked  30+
+  Profile dataset      10,000+ entries
+
+CAPABILITIES
+  › NLP embeddings (all-MiniLM-L6-v2) fused with TF-IDF + Random Forest
+  › Psychometric module — Big Five personality traits + cognitive vectors
+  › Skill gap analysis visualised via radar charts
+─────────────────────────────────────────────────────────────────────
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>PRJ-03 &nbsp;·&nbsp; DrugCheck &nbsp;·&nbsp; AI Medication Safety Platform</b> &nbsp;<code>● ACTIVE</code></summary>
+
+<br/>
+
+```
+SPECIFICATION
+─────────────────────────────────────────────────────────────────────
+  TYPE      Healthcare AI safety system
+  STACK     React · TypeScript · REST APIs · Mistral AI
+
+PERFORMANCE BENCHMARKS
+  Drug pairs checked   10,000+
+  Factual alignment    ~92% vs clinical references
+
+CAPABILITIES
+  › Identifies harmful drug interaction combinations
+  › Integrates Mistral AI for contextual clinical insights
+  › Generates structured PDF safety reports automatically
+  › Validated against structured drug-interaction database
+─────────────────────────────────────────────────────────────────────
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>PRJ-04 &nbsp;·&nbsp; Voice Analysis · Behavioral Signal Extraction</b> &nbsp;<code>◌ IN PROGRESS</code></summary>
+
+<br/>
+
+```
+SPECIFICATION
+─────────────────────────────────────────────────────────────────────
+  TYPE      Audio ML / signal processing pipeline
+  STACK     Python · Librosa · scikit-learn · NumPy · Audio DSP
+
+CAPABILITIES
+  › Acoustic + behavioral feature extraction from raw audio
+  › Classification & regression on emotional/physiological signals
+  › Real DSP pipeline — not a wrapper, not an API call
+─────────────────────────────────────────────────────────────────────
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>PRJ-05 &nbsp;·&nbsp; Transekt &nbsp;·&nbsp; Decentralized Payment Infrastructure</b> &nbsp;<code>◌ IN PROGRESS</code></summary>
+
+<br/>
+
+```
+SPECIFICATION
+─────────────────────────────────────────────────────────────────────
+  TYPE      Web3 / DeFi payment layer
+  STACK     Solidity · Web3.js · Smart Contracts · UPI API · React
+
+CAPABILITIES
+  › Bridges on-chain transactions with UPI rails
+  › Smart contract-based settlement layer
+  › Makes decentralised finance accessible to everyday users
+─────────────────────────────────────────────────────────────────────
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>PRJ-06 &nbsp;·&nbsp; ChatCast &nbsp;·&nbsp; Intelligent Messaging System</b> &nbsp;<code>✓ SHIPPED</code></summary>
+
+<br/>
+
+```
+SPECIFICATION
+─────────────────────────────────────────────────────────────────────
+  TYPE      Desktop application with NLP engine
+  STACK     Python · Tkinter · NLP · File I/O
+
+CAPABILITIES
+  › Full chat system: UI + NLP logic + persistent memory
+  › Zero external dependencies — self-contained
+─────────────────────────────────────────────────────────────────────
+```
+
+</details>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
+
+## `// 05 · SYSTEM METRICS`
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+real-world+ML+systems;From+raw+data+%E2%86%92+deployed+products;Computer+Vision+%C2%B7+Voice+%C2%B7+AI+Systems;Designing+intelligent+applications;Not+studying+AI+%E2%80%94+shipping+it)](https://github.com/Shash309)
+```
+┌──────────────┬──────────────┬──────────────┬──────────────┐
+│   50+ Repos  │   +17% F1    │   +18% Prec  │   ~87% Acc   │
+│   indexed    │  Tata Steel  │  Techboxai   │  Career Rec  │
+│  by RepoMind │  XGBoost     │  Liveness    │  NLP Model   │
+├──────────────┼──────────────┼──────────────┼──────────────┤
+│  500K+ Rows  │  10K+ Drugs  │    <2s       │   8.6/10     │
+│  Analysed    │  Checked     │  Query Lat   │    CGPA      │
+│  at Techbox  │  DrugCheck   │  RepoMind    │  SRM IST     │
+└──────────────┴──────────────┴──────────────┴──────────────┘
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shash309&show_icons=true&hide_border=true&bg_color=0a1628&title_color=4DA6FF&icon_color=4DA6FF&text_color=7ab8ff&ring_color=4DA6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shash309&layout=compact&hide_border=true&bg_color=0a1628&title_color=4DA6FF&text_color=7ab8ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shash309&theme=dark&hide_border=true&background=0a1628&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=7ab8ff&dates=4DA6FF44)
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-sharma-042950288)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashwatsharma309@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23161B22.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shash309)
-
-</div>
-
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
 
-## `$ whoami`
-
-```yaml
-identity:
-  name         : Shashwat Sharma
-  role         : Applied AI Engineer
-  university   : SRM University — B.Tech, 2nd Year
-
-domains:
-  - Machine Learning        # real models, not notebooks
-  - Computer Vision         # OpenCV-based systems
-  - Voice Analysis          # audio feature extraction & modeling
-  - Backend Systems         # APIs, data flow, logic layers
-  - End-to-End Products     # from idea to deployed system
-
-current_build:
-  - AI-powered healthcare & nutrition recommendation engine
-  - Voice analysis pipeline with real-time inference
-  - Computer vision module for object detection
-
-philosophy   : "Ship fast. Learn faster. Build with intention."
-open_to      : [ collabs, internships, interesting_problems ]
-```
-
----
-
-## `$ ls ./capabilities`
-
-<br/>
-
-**`🧠 INTELLIGENCE LAYER`**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF9C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF9C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00FF9C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00FF9C)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00FF9C)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00FF9C)
+## `// 06 · CERTIFICATIONS`
 
 ```
-ML models · Computer Vision · Voice feature extraction · NLP pipelines
+┌──────────────────────────────────────────────────────────────────────┐
+│  CERT-01  Oracle Cloud Infrastructure 2024 Certified Foundations     │
+│           Associate · Oracle · Jan 2025                              │
+├──────────────────────────────────────────────────────────────────────┤
+│  CERT-02  Smart India Hackathon                                      │
+│           Ministry of Education, Govt. of India · Nov 2023           │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
 
-**`⚙️ SYSTEMS LAYER`**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
 
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=00FF9C)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF9C)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00FF9C)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=flat-square&logo=fastapi&logoColor=00FF9C)
-![Web3.js](https://img.shields.io/badge/Web3.js-0D1117?style=flat-square&logo=web3dotjs&logoColor=00FF9C)
-
-```
-Backend APIs · Data pipelines · Model serving · System architecture
-```
-
-<br/>
-
-**`🖥️ INTERFACE LAYER`**
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF9C)
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00FF9C)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00FF9C)
-
-```
-React UI systems · Interactive dashboards · Product interfaces
-```
-
-<br/>
-
-**`☁️ INFRASTRUCTURE LAYER`**
-
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF9C)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF9C)
-
-```
-Cloud deployment · Version control · Dev environments
-```
-
----
-
-## `$ cat ./projects --depth=full`
-
-<br/>
-
-<details>
-<summary><b>⬡ &nbsp; AI HEALTHCARE · Food & Nutrition Recommendation Engine</b></summary>
-
-<br/>
-
-```
-SYSTEM: Intelligent recommendation engine that analyzes user health
-        parameters and maps them to optimal nutritional plans using
-        trained ML models — not rule-based logic.
-```
-
-| Field | Detail |
-|---|---|
-| **Hook** | Personalized nutrition via ML, not if-else conditions |
-| **Problem** | Generic diet advice ignores individual health data entirely |
-| **Tech** | Python · scikit-learn · Flask · Pandas · React |
-| **Why it matters** | End-to-end: data ingestion → model inference → UI delivery |
-| **Status** | `● ACTIVE` |
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>⬡ &nbsp; VOICE ANALYSIS · Behavioral Signal Extraction Model</b></summary>
-
-<br/>
-
-```
-SYSTEM: Extracts acoustic and behavioral features from raw audio input
-        and runs classification/regression models to infer emotional
-        and physiological states from voice alone.
-```
-
-| Field | Detail |
-|---|---|
-| **Hook** | Your voice carries data most apps ignore — this one doesn't |
-| **Problem** | Voice data is rich; most systems discard its non-verbal signals |
-| **Tech** | Python · Librosa · scikit-learn · NumPy · audio DSP |
-| **Why it matters** | Real signal processing pipeline, not a wrapper around an API |
-| **Status** | `● ACTIVE` |
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>⬡ &nbsp; COMPUTER VISION · OpenCV Detection System</b></summary>
-
-<br/>
-
-```
-SYSTEM: Real-time computer vision pipeline for object and pattern
-        detection using OpenCV — built for actual deployment,
-        not academic demos.
-```
-
-| Field | Detail |
-|---|---|
-| **Hook** | Perception layer for systems that need to see |
-| **Problem** | Most CV demos don't survive real-world conditions |
-| **Tech** | Python · OpenCV · NumPy · image processing pipelines |
-| **Why it matters** | Optimized for real-time performance, not just accuracy metrics |
-| **Status** | `● ACTIVE` |
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>⬡ &nbsp; TRANSEKT · Decentralized Payment Infrastructure</b></summary>
-
-<br/>
-
-```
-SYSTEM: A payment layer that bridges on-chain transactions with UPI —
-        removing the friction between Web3 and everyday finance.
-```
-
-| Field | Detail |
-|---|---|
-| **Hook** | Blockchain payments with the simplicity of UPI |
-| **Problem** | Web3 is powerful but completely inaccessible to everyday users |
-| **Tech** | Solidity · Web3.js · Smart Contracts · UPI API · React |
-| **Why it matters** | Makes decentralized finance usable, not just theoretical |
-| **Status** | `◌ IN PROGRESS` |
-
-<br/>
-</details>
-
----
-
-<details>
-<summary><b>⬡ &nbsp; CHATCAST · Intelligent Messaging System</b></summary>
-
-<br/>
-
-```
-SYSTEM: A desktop chat application with an NLP-driven response engine,
-        persistent conversation memory, and a clean UI — built
-        entirely from scratch in Python.
-```
-
-| Field | Detail |
-|---|---|
-| **Hook** | A messaging system that actually remembers and responds |
-| **Problem** | Most hobby chat apps have no intelligence or persistence layer |
-| **Tech** | Python · Tkinter · NLP · File I/O |
-| **Why it matters** | Full system: UI + logic + memory, zero external dependencies |
-| **Status** | `✓ SHIPPED` |
-
-<br/>
-</details>
-
----
-
-## `$ system --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shash309&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=AAFFDD)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shash309&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=AAFFDD)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shash309&theme=neon-dark&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=AAFFDD)
-
-</div>
-
----
-
-## `$ tail -f ./current_build.log`
+## `// 07 · ACTIVE BUILD LOG`
 
 ```log
-[SYSTEM]  Active build sessions detected ...
+[SYSTEM]  Scanning active sessions ...
 
-[00:01]   ► Healthcare AI     — training nutrition model v2       [ RUNNING ]
-[00:02]   ► Voice Pipeline    — tuning feature extraction layer   [ RUNNING ]
-[00:03]   ► CV Module         — optimizing inference speed        [ RUNNING ]
-[00:04]   ► TRANSEKT          — integrating UPI bridge            [ TESTING ]
-[00:05]   ► Portfolio API     — building personal project layer   [ INIT    ]
+[PRJ-01]  RepoMind         — semantic indexing pipeline v2      [ RUNNING ]
+[PRJ-02]  Career Engine    — embedding model fine-tune          [ RUNNING ]
+[PRJ-03]  DrugCheck        — Mistral validation layer           [ RUNNING ]
+[PRJ-04]  Voice Pipeline   — feature extraction tuning         [ IN PROG ]
+[PRJ-05]  Transekt         — UPI bridge integration             [ TESTING ]
+[EXP-01]  Tata Steel       — model output alignment review      [ ACTIVE  ]
 
-[SYSTEM]  All systems nominal. Output shipping soon.
+[SYSTEM]  All systems nominal. Output shipping continuously.
+[SYSTEM]  Open to: collabs · internships · interesting problems
 ```
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4DA6FF&height=1&section=header" width="100%"/>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   > SESSION COMPLETE                                            │
-│   > IDENTITY CONFIRMED  :  Shashwat Sharma  //  Shash309       │
-│                                                                 │
-│   > SIGNATURE  :  Build things that work.                       │
-│                   Ship things that matter.                      │
-│                   Leave code that lasts.                        │
-│                                                                 │
-│   > CONNECTION OPEN — reach out anytime.                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│   IDENTITY   Shashwat Sharma  ·  Shash309                               │
+│   CONTACT    shashwatsharma309@gmail.com  ·  +91 8171004999             │
+│   LOCATION   SRM IST, Kattankulathur                                    │
+│                                                                          │
+│   SIGNATURE  Build things that work.                                     │
+│              Ship things that matter.                                    │
+│              Leave code that lasts.                                      │
+│                                                                          │
+│   // END OF DOCUMENT · REV 3.0 · CONNECTION OPEN                        │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shash309.Shash309&color=00FF9C&style=flat-square)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Shash309.Shash309&color=4DA6FF&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
