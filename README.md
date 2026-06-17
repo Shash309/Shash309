@@ -16,7 +16,7 @@
 
 <!-- ─── ANIMATED SUBLINE ─── -->
 <a href="https://github.com/Shash309">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=4DA6FF&center=true&vCenter=true&width=600&lines=+17%25+F1+%E2%86%91+%40+Tata+Steel+%C2%B7+%2B18%25+precision+%E2%86%91+%40+Techboxai;Building+production+ML+systems+%E2%80%94+not+just+notebooks.;Open+to+collaborations+%C2%B7+internships+%C2%B7+interesting+problems." alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=4DA6FF&center=true&vCenter=true&width=600&lines=From+raw+data+to+deployed+product+%E2%80%94+end+to+end.;ML+pipelines+%C2%B7+Computer+Vision+%C2%B7+Voice+%C2%B7+Full-Stack;I+build+systems+that+work+in+the+real+world.;Open+to+collabs+%C2%B7+internships+%C2%B7+interesting+problems." alt=""/>
 </a>
 
 <br/><br/>
