@@ -120,7 +120,7 @@ Other           Solidity · Web3.js · SQL · Java · C · C++
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=Shash309&hide_border=true&background=0a1628&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=4da6ff99&dates=4da6ff66&stroke=4da6ff22"
+  src="https://streak-stats.demolab.com?user=Shash309&hide_border=true&background=0a1628&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=7AB8FF&dates=7AB8FF&currStreakNum=E8F4FF&sideNums=E8F4FF&stroke=4da6ff22"
   height="140"
 />
 
