@@ -188,7 +188,7 @@ Infrastructure as code (Terraform), configuration as code (Ansible), pipeline as
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shash309&show_icons=true&hide_border=true&include_all_commits=true&bg_color=060a10&title_color=00E5A0&icon_color=38BDF8&text_color=8FA8BD&ring_color=00E5A0" alt="Shash309's GitHub statistics: stars, commits, pull requests and issues" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shash309&layout=compact&hide_border=true&langs_count=8&bg_color=060a10&title_color=00E5A0&text_color=8FA8BD" alt="Most used languages across Shash309's repositories" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shash309&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=InsureX,SUPPLY-CHAIN-AI,sb1-hahricyg&bg_color=060a10&title_color=00E5A0&text_color=8FA8BD" alt="Most used languages across Shash309's repositories, weighted by repository count as well as size" />
 
 <br/>
 
