@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/Shash309?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=00E5A0&center=true&vCenter=true&width=620&lines=ML+that+ships+into+a+steel+plant%2C+not+a+notebook;Bi-LSTM+%2B+Bahdanau+attention%2C+%2B16.1+BLEU+over+baseline;RAG+over+entire+codebases+%E2%80%94+Groq+with+Ollama+failover;Postgres+SKIP+LOCKED+queues+that+never+double-claim;Terraform+%2B+Ansible+%2B+Jenkins%2C+because+clicking+deploy+is+a+bug" alt="Rotating summary of recent engineering work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=00E5A0&center=true&vCenter=true&width=620&lines=870%2B+tests+guarding+a+pipeline+that+refuses+to+guess;ML+that+ships+into+a+steel+plant%2C+not+a+notebook;Bi-LSTM+%2B+Bahdanau+attention%2C+%2B16.1+BLEU+over+baseline;RAG+over+entire+codebases+%E2%80%94+Groq+with+Ollama+failover;Postgres+SKIP+LOCKED+queues+that+never+double-claim" alt="Rotating summary of recent engineering work" />
 </a>
 
 <br/><br/>
@@ -30,11 +30,13 @@
 
 Final-year **B.Tech CSE (AI & ML)** at SRM IST · CGPA 8.52 · available immediately.
 
-The work I keep coming back to lives in the gap between a model and somebody's actual problem. At **Tata Steel** that meant sitting with metallurgists until *"this bar looks wrong"* became features, validation criteria and an XGBoost classifier over 15,000+ TMT samples. The model was maybe a third of the job. The rest was translation — and that part turned out to be the part I'm good at.
+The work I keep coming back to lives in the gap between a model and somebody's actual problem.
 
-At **Personate AI** it was the same instinct pointed at a product instead of a furnace: face unlock and liveness verification, 500K+ records through the inference pipeline, shipped as something users actually touched.
+Right now that's **Sentir**, where I build document-intelligence pipelines that turn complex engineering drawings into audited, structured quantity data — vector geometry reconstruction, real-world scale calibration, reconciliation against third-party exports. Fifteen stages, 870+ tests pinned to a frozen baseline, and one design decision I'd defend in any review: **where confidence is low, the pipeline flags the region unresolved instead of estimating it.** A number that might be wrong is worse than an honest gap when a client has to sign off on the output.
 
-So: applied AI, leaning forward-deployed rather than purely research. I'll train the model, write the FastAPI service that serves it, provision the box it runs on — and then go argue with the domain expert about what the output should actually *say*. The interesting failures are in the seams between those layers, and you only find them if you own all of them.
+Before that, **Tata Steel** — sitting with metallurgists until *"this bar looks wrong"* became features, validation criteria and an XGBoost classifier over 15,000+ TMT samples. The model was maybe a third of the job; the rest was translation, and that turned out to be the part I'm good at. **Personate AI** was the same instinct pointed at a product instead of a furnace: face unlock and liveness verification, 500K+ records through the inference pipeline.
+
+Three domains, same shape of problem — a non-technical expert who knows exactly what *correct* means but can't write it down, and software that has to be verifiably right rather than plausibly right. That's the job I want: applied AI, forward-deployed. Train the model, write the service, own the pipeline, then go argue with the domain expert about what the output should actually *say*.
 
 Everything below is a repo nobody asked me to build. Attention implemented from scratch because I wanted to see the alignment heatmaps myself. A job queue from first principles because *two workers claimed the same row* teaches you more than a blog post about it ever will.
 
@@ -46,6 +48,7 @@ No "AI is the future" posting. Just things you can clone and run.
 
 | Where | What | Result |
 |---|---|---|
+| **Sentir** · `Data & ML Engineer (Freelance)` · `Aug 2026 – present` | Document-intelligence pipelines turning complex engineering drawings into audited, structured quantity data — vector geometry reconstruction, real-world scale calibration, automated reconciliation against third-party exports | **15-stage Python pipeline**, **870+ tests** against a frozen baseline, audit-ready deliverables |
 | **Tata Steel** · `ML Engineer Intern` · `Nov 2025 – May 2026` | XGBoost quality assessment model over 15,000+ TMT bar samples, feature design done with domain experts | **+17% F1** on defect detection |
 | **Personate AI** · `Data Science Intern` · `May – Jul 2025` | Face unlock + liveness verification · React · FastAPI · OpenCV · MediaPipe · 500K+ records | **+18% precision**, fed the product roadmap |
 
@@ -56,6 +59,9 @@ No "AI is the future" posting. Just things you can clone and run.
 ### `~/now`
 
 ```console
+➜ ~ cat $CURRENT
+Sentir · document intelligence for engineering drawings · client work, private repo
+
 ➜ ~ ls -t ~/work | head -4
 
 DevFlow/                   branch-aware CI/CD — Jenkins → Docker → AWS → CloudWatch
@@ -65,6 +71,7 @@ Distributed-Job-Scheduler/ heartbeat reaper + DLQ promotion under concurrent wor
 
 ➜ ~ cat exploring.md
   → LLM systems that survive contact with a real user: evals, failure modes, cost
+  → document AI where "probably right" fails the audit: calibration, reconciliation
   → attention internals, and what actually transfers to bigger architectures
   → retrieval that stays cheap at repo scale (caching, chunking, token guards)
   → distributed systems correctness: locking, idempotency, graceful drain

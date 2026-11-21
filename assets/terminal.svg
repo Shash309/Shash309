@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" aria-label="Terminal session: whoami, stack, philosophy and current status">
   <title>shashwat@dev — terminal session</title>
-  <desc>whoami: engineer who would rather ship it than describe it. interests: applied ML, LLMs and RAG, the systems around a model, domain problems. philosophy: build, break, instrument, learn, repeat. status: active, final year, available immediately.</desc>
+  <desc>whoami: engineer who would rather ship it than describe it. interests: applied ML, LLMs and RAG, the systems around a model, domain problems. philosophy: build, break, instrument, learn, repeat. status: active, final year, shipping at Sentir, available immediately.</desc>
 
   <defs>
     <linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
@@ -41,7 +41,7 @@
     <text x="28" y="270"><tspan fill="#00e5a0">➜</tspan><tspan fill="#38bdf8" dx="10">~</tspan><tspan fill="#8fa8bd" dx="12">systemctl status shashwat</tspan></text>
     <text x="28" y="294"><tspan fill="#28c840">●</tspan><tspan fill="#cfe3f2" dx="8">active (running)</tspan><tspan fill="#4d6478" dx="10">since 2023 · 27 public repos · uptime: caffeinated</tspan></text>
     <text x="28" y="318" fill="#8fa8bd">   Tasks: ML pipelines, API design, infra-as-code, papers at 2am</text>
-    <text x="28" y="340" fill="#8fa8bd">   Status: final year · available immediately</text>
+    <text x="28" y="340" fill="#8fa8bd">   Status: final year · shipping @ Sentir · available immediately</text>
 
     <!-- live prompt -->
     <text x="28" y="378"><tspan fill="#00e5a0">➜</tspan><tspan fill="#38bdf8" dx="10">~</tspan></text>
