@@ -58,10 +58,10 @@
 
     <!-- role -->
     <text x="56" y="192" font-size="17" fill="#00e5a0">Applied AI</text>
-    <text x="152" y="192" font-size="17" fill="#395268">/</text>
-    <text x="166" y="192" font-size="17" fill="#38bdf8">Systems</text>
-    <text x="243" y="192" font-size="17" fill="#395268">/</text>
-    <text x="257" y="192" font-size="17" fill="#a78bfa">Full-Stack Engineer</text>
+    <text x="164" y="192" font-size="17" fill="#395268">/</text>
+    <text x="178" y="192" font-size="17" fill="#38bdf8">LLM Systems</text>
+    <text x="296" y="192" font-size="17" fill="#395268">/</text>
+    <text x="310" y="192" font-size="17" fill="#a78bfa">Forward-Deployed Engineer</text>
 
     <!-- tagline -->
     <text x="56" y="224" font-size="14" fill="#5f7b93">Build systems. Break limits. Ship anyway.<tspan fill="#00e5a0" dx="8">&#9608;<animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/></tspan></text>

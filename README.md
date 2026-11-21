@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/Shash309?tab=repositories">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=00E5A0&center=true&vCenter=true&width=620&lines=Bi-LSTM+%2B+Bahdanau+attention%2C+%2B16.1+BLEU+over+baseline;Postgres+SKIP+LOCKED+job+queues+that+never+double-claim;RAG+over+entire+codebases+%E2%80%94+Groq+with+Ollama+failover;Terraform+%2B+Ansible+%2B+Jenkins%2C+because+clicking+deploy+is+a+bug;Solidity+smart+contracts+settling+real+insurance+claims" alt="Rotating summary of recent engineering work" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1800&color=00E5A0&center=true&vCenter=true&width=620&lines=ML+that+ships+into+a+steel+plant%2C+not+a+notebook;Bi-LSTM+%2B+Bahdanau+attention%2C+%2B16.1+BLEU+over+baseline;RAG+over+entire+codebases+%E2%80%94+Groq+with+Ollama+failover;Postgres+SKIP+LOCKED+queues+that+never+double-claim;Terraform+%2B+Ansible+%2B+Jenkins%2C+because+clicking+deploy+is+a+bug" alt="Rotating summary of recent engineering work" />
 </a>
 
 <br/><br/>
@@ -28,13 +28,17 @@
 
 ### `~/about`
 
-I like the parts of engineering most people skip: why attention actually beats a plain seq2seq, why two workers must never claim the same row, why a deploy should be a consequence of a `git push` and not a ritual.
+Final-year **B.Tech CSE (AI & ML)** at SRM IST · CGPA 8.52 · available immediately.
 
-B.Tech CSE (AI & ML) at **SRM IST**, 2023–27 · CGPA 8.6 · currently **ML Engineer Intern at Tata Steel**.
+The work I keep coming back to lives in the gap between a model and somebody's actual problem. At **Tata Steel** that meant sitting with metallurgists until *"this bar looks wrong"* became features, validation criteria and an XGBoost classifier over 15,000+ TMT samples. The model was maybe a third of the job. The rest was translation — and that part turned out to be the part I'm good at.
 
-So far that has meant training models on real factory data, writing the FastAPI services that serve them, provisioning the AWS boxes they run on, and occasionally putting a Solidity contract in the middle just to see whether it holds. I build end to end — raw data, feature engineering, training, API, interface, pipeline — because the interesting failures live in the seams between those layers.
+At **Personate AI** it was the same instinct pointed at a product instead of a furnace: face unlock and liveness verification, 500K+ records through the inference pipeline, shipped as something users actually touched.
 
-No ML-is-the-future posting. Just repos you can clone and run.
+So: applied AI, leaning forward-deployed rather than purely research. I'll train the model, write the FastAPI service that serves it, provision the box it runs on — and then go argue with the domain expert about what the output should actually *say*. The interesting failures are in the seams between those layers, and you only find them if you own all of them.
+
+Everything below is a repo nobody asked me to build. Attention implemented from scratch because I wanted to see the alignment heatmaps myself. A job queue from first principles because *two workers claimed the same row* teaches you more than a blog post about it ever will.
+
+No "AI is the future" posting. Just things you can clone and run.
 
 ---
 
@@ -42,8 +46,10 @@ No ML-is-the-future posting. Just repos you can clone and run.
 
 | Where | What | Result |
 |---|---|---|
-| **Tata Steel** · `Nov 2025 – present` | XGBoost quality classifier over 15K+ TMT bar samples | **+17% F1** vs. baseline |
-| **Techboxai** · `May – Jul 2025` | Face unlock + liveness verification · React · FastAPI · OpenCV · MediaPipe | **+18% precision** vs. baseline |
+| **Tata Steel** · `ML Engineer Intern` · `Nov 2025 – May 2026` | XGBoost quality assessment model over 15,000+ TMT bar samples, feature design done with domain experts | **+17% F1** on defect detection |
+| **Personate AI** · `Data Science Intern` · `May – Jul 2025` | Face unlock + liveness verification · React · FastAPI · OpenCV · MediaPipe · 500K+ records | **+18% precision**, fed the product roadmap |
+
+<sub>Oracle Cloud Infrastructure 2024 Certified Foundations Associate · Smart India Hackathon, Ministry of Education (2023)</sub>
 
 ---
 
@@ -58,10 +64,10 @@ vle7-app/                  containerised deploys, one experiment at a time
 Distributed-Job-Scheduler/ heartbeat reaper + DLQ promotion under concurrent workers
 
 ➜ ~ cat exploring.md
-  → distributed systems correctness: locking, idempotency, graceful drain
+  → LLM systems that survive contact with a real user: evals, failure modes, cost
   → attention internals, and what actually transfers to bigger architectures
-  → Kubernetes beyond a Minikube demo
-  → LLM retrieval that stays cheap at repo scale (caching, chunking, token guards)
+  → retrieval that stays cheap at repo scale (caching, chunking, token guards)
+  → distributed systems correctness: locking, idempotency, graceful drain
 ```
 
 ---
@@ -103,6 +109,8 @@ Plus the unglamorous parts that make a queue real: exponential backoff with jitt
 
 Chat with, visualise and refactor an entire codebase. Clone a repo, index it semantically, then ask what actually depends on what.
 
+**50+ repos indexed · sub-2s query latency · ~40% cache hit rate.**
+
 **Hybrid inference:** Groq (Llama 3.3 70B) as primary, automatic **Ollama** failover when the cloud is down — the pipeline stays online. Embeddings via Cohere, persisted in SQLite so re-indexing doesn't re-bill you.
 
 Act Mode goes further than Q&A: the model plans, locates and applies edits across files behind token-safety guards.
@@ -133,7 +141,7 @@ git push → Jenkins → tests → docker build → branch detection → deploy 
 
 Infrastructure as code (Terraform), configuration as code (Ansible), pipeline as code (`Jenkinsfile`). Its sibling [devops-webapp](https://github.com/Shash309/devops-webapp) is deliberately honest about its own boundary: GitHub Actions builds, tests and pushes to GHCR, and the README explains exactly why a hosted runner cannot reach a local Minikube cluster instead of faking that step.
 
-<sub>Also worth a look: **[CAPE](https://github.com/Shash309/Cognitive-Minor)** — career recommendation engine fusing MiniLM embeddings, TF-IDF and Random Forest with a Big Five psychometric module · **[FaceUnlockSystem](https://github.com/Shash309/FaceUnlockSystem__Spoof-proof)** — gesture-based liveness checks, React + FastAPI + OpenCV · **[NutriNion](https://github.com/Shash309/NutriNion)** — Django nutrition tracking.</sub>
+<sub>Also worth a look: **[CAPE](https://github.com/Shash309/Cognitive-Minor)** — career recommendation engine fusing MiniLM embeddings, TF-IDF and Random Forest (~87% accuracy over a 10,000+ profile dataset) with a Big Five psychometric module · **[FaceUnlockSystem](https://github.com/Shash309/FaceUnlockSystem__Spoof-proof)** — gesture-based liveness checks, React + FastAPI + OpenCV · **[NutriNion](https://github.com/Shash309/NutriNion)** — Django nutrition tracking.</sub>
 
 ---
 
@@ -210,7 +218,7 @@ Infrastructure as code (Terraform), configuration as code (Ansible), pipeline as
 
 <br/>
 
-<sub>Open to internships, collaborations, and problems that look unreasonable at first glance.</sub>
+<sub>Open to full-time <b>AI / ML</b> and <b>forward-deployed engineering</b> roles — available immediately.<br/>Also: collaborations, and problems that look unreasonable at first glance.</sub>
 
 <br/><br/>
 
