@@ -19,7 +19,7 @@
 <br/><br/>
 
 <a href="https://shashwat-sharma-dev.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-060a10?style=for-the-badge&logo=vercel&logoColor=00E5A0&labelColor=060a10" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shashwat-sharma-042950288"><img src="https://img.shields.io/badge/LINKEDIN-060a10?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=060a10" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shashwat-sharma309"><img src="https://img.shields.io/badge/LINKEDIN-060a10?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=060a10" alt="LinkedIn" /></a>
 <a href="mailto:shashwatsharma309@gmail.com"><img src="https://img.shields.io/badge/EMAIL-060a10?style=for-the-badge&logo=gmail&logoColor=A78BFA&labelColor=060a10" alt="Email" /></a>
 
 </div>
@@ -214,7 +214,7 @@ Infrastructure as code (Terraform), configuration as code (Ansible), pipeline as
 
 ### `~/connect`
 
-**[Portfolio](https://shashwat-sharma-dev.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/shashwat-sharma-042950288)** &nbsp;·&nbsp; **[shashwatsharma309@gmail.com](mailto:shashwatsharma309@gmail.com)**
+**[Portfolio](https://shashwat-sharma-dev.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/shashwat-sharma309)** &nbsp;·&nbsp; **[shashwatsharma309@gmail.com](mailto:shashwatsharma309@gmail.com)**
 
 <br/>
 
